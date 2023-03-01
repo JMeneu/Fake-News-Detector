@@ -1,5 +1,3 @@
-# Factify: Empowering Information
-
 <img width="1000" style="float:left" 
      src="https://i.imgur.com/Cv7aSif.png" />
 
@@ -49,5 +47,7 @@ To kick start with the tool, follow the next steps:
 ## 4. References
 
 [1] Flask documentation. (2022). Flask documentation. Retrieved March 1, 2023, from https://flask.palletsprojects.com/en/2.2.x/
+
 [2] Hugging Face documentation. (n.d.). Hugging Face. Retrieved March 1, 2023, from https://huggingface.co/docs
+
 [3] Khalil, A. (2020, October 23). Data Science Project: German News Classifier. Medium. https://amr-khalil.medium.com/data-science-project-german-news-classifier-c574a1842aaa
